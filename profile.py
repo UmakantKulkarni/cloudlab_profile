@@ -38,7 +38,7 @@ imageList = [
     ('urn:publicid:IDN+cloudlab.umass.edu+image+sfcs-PG0:ubuntu24lts', 'UBUNTU 24.04 LTS'),
     ('urn:publicid:IDN+utah.cloudlab.us+image+sfcs-PG0:sfc_u20_k8s_5g_uth', 'UBUNTU 20.04 K8s 5G Utah'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU18-64-STD', 'UBUNTU 18.04'),
-    ('urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU18-PPC64LE', 'UBUNTU18-PPC64LE'),
+    ('urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU22-64-ARM', 'UBUNTU22-64-ARM'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU20-64-STD', 'UBUNTU 20.04'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU16-64-STD', 'UBUNTU 16.04'),
     ('urn:publicid:IDN+emulab.net+image+emulab-ops//CENTOS7-64-STD',  'CENTOS 7'),
